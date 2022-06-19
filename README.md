@@ -8,8 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="luh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="luh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="luh-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/739573595759444078/739574453096415233/914976855143100466">
-</div>
   
 ##
   
