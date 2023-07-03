@@ -1,5 +1,7 @@
 # What's up there!💫👋
-I'm Luisa Tolentino, a passionate about technology, front-end developer, with hobby in drawings, games, and music. I did an internship at the Federal Senate as a full-stack developer for one year, but I have around two years of development experience. I'm looking for a new opportunity as an intern or junior developer.
+I'm Luisa Tolentino, a passionate about studyng and technology, front-end developer, with hobby in drawings, games, and music. I did an internship at the Federal Senate as a full-stack developer for one year, but I have around two years of development experience. I'm looking for a new opportunity as an intern or junior developer.
+
+Please, take a look at my projects, mainly the pinned ones. ❣
 
 #### 💌 Socials 💌
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-tolentino-ribeiro-gomes-340469227)
